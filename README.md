@@ -14,11 +14,7 @@ PROFILE README TEMPLATE
 
   **[Nice to meet you! I enjoy creating useful little things and have fun learning new technologies.]** ✨
 
-  <a href="https://www.linkedin.com/in/[your-linkedin]">LinkedIn</a> ·
-  <a href="mailto:[your-email@example.com]">Email</a> ·
-  <a href="https://[your-portfolio-url]">Portfolio</a>
-</div>
-
+  <a href="mailto:[chatakung1892@gmail.com]">Email</a> 
 <br />
 
 ## 🌸 About me
@@ -56,22 +52,13 @@ PROFILE README TEMPLATE
     <td width="50%">
       <h3>🌼 <a href="https://github.com/[username]/[project-one]">[Project One]</a></h3>
       <p>[I'm learning new things to use in game development and graphic design.]</p>
-      <p><code>[Tech 1]</code> <code>[Tech 2]</code> <code>[Tech 3]</code></p>
     </td>
     <td width="50%">
       <h3>🧸 <a href="https://github.com/[username]/[project-two]">[Project Two]</a></h3>
       <p>[I will create an artificial intelligence friend in anime style.]</p>
-      <p><code>[Tech 1]</code> <code>[Tech 2]</code> <code>[Tech 3]</code></p>
     </td>
   </tr>
 </table>
-
-## 📊 GitHub corner
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&hide_border=true&title_color=ff80ab&icon_color=c084fc&text_color=6b7280&bg_color=fff7fb" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&hide_border=true&title_color=ff80ab&text_color=6b7280&bg_color=fff7fb" height="165" alt="Top languages" />
-</div>
 
 ## 💌 Let's connect
 
